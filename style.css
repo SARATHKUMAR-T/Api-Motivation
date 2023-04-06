@@ -1,0 +1,48 @@
+.main {
+  text-align: center;
+  margin-top: 1vh;
+  position: relative;
+}
+.body {
+  background: #00467f; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #a5cc82,
+    #00467f
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #a5cc82,
+    #00467f
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.b1 {
+  margin-left: 52vh;
+  margin-top: 3vh;
+}
+.m1 {
+  margin-left: 8px;
+}
+#hv1 {
+  font-family:  sans-serif;
+  text-align: center;
+  font-weight: bold;
+  color: rgb(246, 242, 25);
+}
+.row {
+  position: absolute;
+  left: -1em;
+  top: 6em;
+}
+p,h5 {
+  color: rgb(38, 230, 86);
+}
+.s1{
+  color: #e7eb23;
+}
+.dog{
+  cursor:pointer;
+}
+.dog:hover{
+  color: white;
+}
